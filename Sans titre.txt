@@ -1,0 +1,65 @@
+Question 1
+What is web development?
+Web development is the process of  building and maintaining websites.
+
+Your answer
+The web development involves creation and maintenance of websites
+Question 2
+What's the difference between the Internet and the Web
+The Internet is a global network of networks while the Web, also referred formally as World Wide Web (www) is a collection of information that is accessed via the Internet
+
+Your answer
+internet is a systeme a
+Question 3
+What protocol does the web use?
+The web uses the HTTP protocol.
+
+Your answer
+web use httml protocole
+Question 4
+How can you explain a basic web architecture?
+The client sends a request to the server and the server responds to that request after some treatment.
+
+Your answer
+web architecture need
+Question 5
+What’s the difference between a server and a client ?
+The basic difference between the client and server is that client relies on the services of the server, whereas the server authorizes the client's requests and facilitates them with the requested services.
+
+Your answer
+The server work for clients
+Question 6
+How do you define a protocol?
+ It is only a set of rules that allow electronic devices to communicate with each other
+
+Your answer
+student didnt reply
+Question 7
+What does API stands for?
+ Application Programming Interface.
+
+Your answer
+student didnt reply
+Question 8
+What is the purpose of using a database?
+The purpose of a database is to help people keep track of things. It accomplishes this purpose by storing data in tables. Each table has rows and columns, similar to a spreadsheet. A database usually has multiple tables in order to keep track of different but related things.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
